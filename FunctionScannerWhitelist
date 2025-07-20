@@ -1,3 +1,4 @@
 Class TAGame.Car_TA
 Class TAGame.Ball_TA
 Class TAGame.GFxData_TrainingMode_TA
+Class TAGame.Ball_GameEditor_TA
